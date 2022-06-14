@@ -1,4 +1,5 @@
-### Hi there 👋
+<code>Languages: JavaScript</code>
+<code>Tech stack: node.js</code>
 
 <!--
 **sazhin/sazhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
